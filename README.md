@@ -30,6 +30,10 @@ LINK: [Project Link](github.com/varshith1708/tic-tac-toe) <br>
  THIS IS policy-based-decision-making-in-crop <br>
 LINK: [Project Link](https://github.com/varshith1708/policy-based-decision-making-in-crop) <br>
 
-** PRACTICAL 11** <br>
+**PRACTICAL 11** <br>
  THIS IS Smart Crop Irrigation AI System <br>
-LINK: [Project Link](
+LINK: [Project Link](https://github.com/varshith1708/Smart-Crop-Irrigation-AI-System) <br>
+
+**PRACTICAL 12** <br>
+ THIS IS AI Mentor – Intelligent AI/ML Educational Chatbot <br>
+ LINK: [Project Link](https://github.com/varshith1708/AI-Mentor) <br>
